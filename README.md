@@ -8,4 +8,4 @@ Run this container:
     --network host \
     --detach \
     --restart always \
-    everoctivian\ngrok
+    magicarena\ngrok
